@@ -24,8 +24,6 @@
       "browser"
     ],
     "rules": {
-      "no-new": "off",
-      "no-unused-expressions": "off",
       "import/no-unassigned-import": "off"
     }
   },
