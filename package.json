@@ -5,6 +5,9 @@
   "repository": "git@github.com:evillt/zhihu-zoom.git",
   "author": "evila <ijoec123@gmail.com>",
   "license": "MIT",
+  "files": [
+    "lib"
+  ],
   "devDependencies": {
     "dvan": "^2.3.2",
     "eslint-config-prettier": "^4.0.0",
